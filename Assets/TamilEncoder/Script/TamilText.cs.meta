@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 43ab4cbea1421fa49b4e53cdfc4ee7bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_TSCII_TamilFont: {fileID: 12800000, guid: 6c65133ae1020df43a79ddd4c6c39ade, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

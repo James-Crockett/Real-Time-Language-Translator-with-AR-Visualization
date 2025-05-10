@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6654bd15c64ee564388ea015964697e0, type: 3}
+  m_Name: TamilMenuPrefabs
+  m_EditorClassIdentifier: 
+  inputField: {fileID: 5876149504096505698, guid: dc2caa124fb777944abf76ba2534196a, type: 3}
+  inputFieldTMP: {fileID: 5311539289758613083, guid: ec0f5566b62ccb3428b6947ac65de2b3, type: 3}
+  dropdown: {fileID: 2334196565438479721, guid: f2ddae63142eacc46aaae26315124aaf, type: 3}
+  dropdownTMP: {fileID: 5976268627409665322, guid: 0fccdf89a1d9c4a4ea6ea6ddd1b35db1, type: 3}
+  button: {fileID: 5230953365654994074, guid: 67bcdb904a4d5f1448758da6325e665f, type: 3}
+  buttonTMP: {fileID: 479678258327538049, guid: 000d400913aeb044fb52e12bade2bec3, type: 3}

@@ -1,0 +1,24 @@
+     THANKS FOR USING OUR ASSET
+
+Let's get started by 
+
+Step 1: GameObject -> UI -> Tamil -> Tamil Text
+Step 2: Select TamilText GameObject -> Find Tamil Text component 
+        -> enter your tamil or copy & paste tamil text in text box
+Step 3: Give Render Text or Enter play mode 
+
+Now Fixed Tamil Text in Unity
+
+
+Tutorial Video : https://www.youtube.com/watch?v=KjaZgFAcRSk (Mainly for scrpiting)
+
+
+For more infomation about this asset & other tamil gameobject 
+check it out Asset/TamilEncoder/Doc/Tamil font fixer and Tamil encoder.pdf (documentation)
+
+
+more about tscii & tscii table : https://en.wikipedia.org/wiki/TSCII
+For more tscii font : https://www.azhagi.com/freefonts.php#tscii
+
+
+If this asset help you drop your review here : https://u3d.as/2Ugj 

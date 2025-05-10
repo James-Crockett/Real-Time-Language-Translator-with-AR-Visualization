@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c346c43a98d48bb4e8dd62813623c3b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_FontAsset_TSCII: {fileID: 11400000, guid: da6f40bea57120f459953f44f8278839, type: 2}
+  - m_FontAsset_TACE16: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
