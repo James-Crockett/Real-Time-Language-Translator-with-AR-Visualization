@@ -19,7 +19,7 @@ The system captures audio input, transcribes it, translates it using a Transform
 ## Technical Stack
 - **Speech Engine:** Mozilla DeepSpeech
 - **Translation Model:** Transformer (PyTorch)
-- **AR Platform:** Vuforia SDK
+- **AR Platform:** Unity, Vuforia SDK
 - **Language:** Python
 
 ## Credits
